@@ -11,7 +11,6 @@ This project focuses on **Sentiment Analysis** of IMDb movie reviews using **Nat
 - [Usage](#usage)
 - [Model Evaluation](#model-evaluation)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
@@ -97,7 +96,3 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 4. Commit your changes (`git commit -am 'Add new feature'`)
 5. Push to the branch (`git push origin feature-branch`)
 6. Create a new Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
